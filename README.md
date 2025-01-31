@@ -20,12 +20,9 @@ SafeBank, a startup building a secure banking app, aims to educate users on crea
 ## Installation
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/password-strength-checker.git
+git clone https://github.com/junecodes767/Password-Strength-Checker.git
 cd password-strength-checker
 
-# Install dependencies (if any)
-pip install -r requirements.txt
-```
 
 ## Usage
 Run the script and enter a password to analyze its strength:
